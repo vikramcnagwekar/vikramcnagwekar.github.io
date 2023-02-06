@@ -1,2 +1,2 @@
 # vikramcnagwekar.github.io
-hi Natasha, this ismy first web page!! 
+This is a basic web project.
